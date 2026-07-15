@@ -159,7 +159,7 @@ Successfully completed a product management program focused on product lifecycle
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-santhoshkumarsadhu2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshkumarsadhu2000@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-santhoshkumarsadu2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshkumarsadu2000@gmail.com)
 [![Github](https://img.shields.io/badge/Github-santoshkumarsadhu-D14836?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhoshkumarsadu2000-hash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santosh%20Kumar%20Sadhu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-kumar-sadhu-748901284)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-3776AB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://santhoshkumarsadu2000-hash.github.io/Santosh-Portfolio/)
